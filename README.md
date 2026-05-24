@@ -1,4 +1,6 @@
 # Exp-1 ATM & BANKING SYSTEM
+## NAME : G P HARIESH 
+## REG.NO : 21222404100
 
 # AIM:
 To design and draw UML diagrams for the ATM and Banking System
